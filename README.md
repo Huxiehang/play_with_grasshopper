@@ -5,3 +5,8 @@ These series recode my exploration on grasshopper.
 [01 origami structures.gh](01%20origami%20structures.gh)
 
 |<img src="https://github.com/Huxiehang/play_with_grasshopper/blob/main/01%20origami%20structures%20folding.gif" width="480"/>|
+
+## Play With Grasshopper #02
+[02 quad remesh.gh](02 quad remesh.gh)
+
+|<img src="https://github.com/Huxiehang/play_with_grasshopper/blob/main/02%20quad%20remesh%20cloud1.png" width="480"/>|
