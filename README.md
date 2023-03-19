@@ -15,3 +15,8 @@ These series recode my exploration on grasshopper.
 [03 Coral Growth.gh](03%20Coral%20Growth.gh)
 
 |<img src="https://github.com/Huxiehang/play_with_grasshopper/blob/main/03%20Coral%20Growth.gif" width="480"/>|
+
+## Play With Grasshopper #04
+[04 Coral Nest.gh](04%20Coral%20Nest.gh)
+
+|<img src="https://github.com/Huxiehang/play_with_grasshopper/blob/main/04%20Coral%20Nest.jpg" width="480"/>|
